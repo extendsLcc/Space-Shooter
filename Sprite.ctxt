@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=spriteList\ startX\ startY\ width\ height\ fWidth\ fHeight
+comment0.target=greenfoot.GreenfootImage\ getSprite(greenfoot.GreenfootImage,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=spriteList\ width\ height\ index\ fWidth\ fHeight
+comment1.target=greenfoot.GreenfootImage\ getSprite(greenfoot.GreenfootImage,\ int,\ int,\ int,\ int,\ int)
+comment2.params=spriteList\ startX\ startY\ width\ height\ number\ fWidth\ fHeight
+comment2.target=java.util.List\ getSprites(greenfoot.GreenfootImage,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=spriteList\ width\ height\ fWidth\ fHeight
+comment3.target=java.util.List\ getSprites(greenfoot.GreenfootImage,\ int,\ int,\ int,\ int)
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=Value(int)
+comment1.params=i\ size
+comment1.target=Value(int,\ float)
+comment2.params=i\ size
+comment2.target=void\ Create(int,\ float)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=add
+comment4.target=void\ addPoints(int)
+comment5.params=val
+comment5.target=void\ setPoints(int)
+comment6.params=
+comment6.target=void\ atualize()
+numComments=7

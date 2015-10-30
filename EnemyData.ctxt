@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=id\ life\ bounty\ facing\ wd\ hg\ dist\ deg\ AIlvl\ img\ amd\ ed
+comment0.target=EnemyData(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ java.lang.String,\ AmmoData[],\ EffectData)
+numComments=1

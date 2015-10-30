@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=secs
+comment0.target=CoolDown(double)
+comment1.params=secs\ r\ g\ b\ a\ AD
+comment1.target=CoolDown(double,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ clockCircle()
+numComments=4

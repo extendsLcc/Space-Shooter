@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=void\ starsDir()
+comment2.params=
+comment2.target=void\ Shot()
+comment3.params=
+comment3.target=void\ Special()
+comment4.params=
+comment4.target=void\ equipment()
+comment5.params=l\ o\ to
+comment5.target=int\ nextIndex(java.util.List,\ java.lang.Object,\ int)
+comment6.params=ad
+comment6.target=void\ ammoChange(AmmoData)
+comment7.params=ad\ quantidade
+comment7.target=void\ ammoAdd(AmmoData,\ int)
+comment8.params=
+comment8.target=void\ movement()
+comment9.params=
+comment9.target=void\ trail()
+numComments=11

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=tm\ s\ isloop\ ap\ wc\ hc\ wm\ hm\ sfile\ vol
+comment0.target=EffectData(int,\ java.util.List,\ boolean,\ int,\ int,\ int,\ int,\ int,\ java.lang.String,\ int)
+comment1.params=tm\ s\ isloop\ sfile
+comment1.target=EffectData(int,\ java.util.List,\ boolean,\ java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ Vers\u00E3o\ compacta;\ \r\n
+numComments=2

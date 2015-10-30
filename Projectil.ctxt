@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=AD\ clz
+comment0.target=Projectil(AmmoData,\ java.lang.Class)
+comment0.text=private\ GreenfootImage\ img;\r\n\ \ \ \ private\ AmmoData\ This;\r\npublic\ Class\ <\ ?\ extends\ Units\ >\ cls;
+comment1.params=
+comment1.target=void\ act()
+numComments=2

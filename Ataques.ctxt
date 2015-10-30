@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=dmg\ pircing\ effect\ cls
+comment0.target=void\ damage(int,\ boolean,\ EffectData,\ java.lang.Class)
+comment1.params=dmg\ effect\ cls
+comment1.target=void\ damagePircing(int,\ EffectData,\ java.lang.Class)
+comment2.params=dmg\ x\ y\ x2\ y2\ radius\ cls
+comment2.target=void\ lineDamage(int,\ int,\ int,\ int,\ int,\ int,\ java.lang.Class)
+numComments=3
